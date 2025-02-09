@@ -25,16 +25,15 @@ I'm a proficient Django backend developer with a strong interest in Data Science
 - 🔭 I’m currently working on exciting Django projects.
 - 🌱 I’m continuously learning about Data Science, Machine Learning, and AI.
 - 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m seeking guidance on advanced machine learning techniques.
+- 🤔 I’m seeking guidance on advanced machine learning and AI techniques.
 - 💬 Ask me about Django, C++, and Data Structures.
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: jeevanskumar444@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love creating animations in my free time.
+- ⚡ Fun fact: I enjoy solving complex problems in my free time.
 
 ### Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://www.linkedin.com/in/jeevan-kumar-18854023b/)
 
 ### Languages and Tools:
 

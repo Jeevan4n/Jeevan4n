@@ -1,4 +1,3 @@
-
 ## ✩ 👨‍💻 Hi there 👨‍💻 ✩
 
 I'm a proficient Django backend developer with a strong interest in Data Science, Machine Learning, and Artificial Intelligence. I'm eager to grow my skills and pursue a role as a Software Development Engineer (SDE).
@@ -48,6 +47,9 @@ I'm a proficient Django backend developer with a strong interest in Data Science
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?&logo=TensorFlow)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000?&logo=Keras)
 
 <!--
 **Jeevan4n/Jeevan4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

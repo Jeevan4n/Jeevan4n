@@ -1,3 +1,12 @@
+<style>
+  body {
+    background-image: url('C:\Users\JEEVAN\OneDrive\Desktop\Git\Jeevan4n\jeev.webp');
+    background-size: cover;
+    background-position: center;
+    color: white;
+  }
+</style>
+
 ## ✩ 👨‍💻 Hi there 👨‍💻 ✩
 
 I'm a proficient Django backend developer with a strong interest in Data Science, Machine Learning, and Artificial Intelligence. I'm eager to grow my skills and pursue a role as a Software Development Engineer (SDE).

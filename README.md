@@ -1,11 +1,3 @@
-<style>
-  body {
-    background-image: url('C:\Users\JEEVAN\OneDrive\Desktop\Git\Jeevan4n\jeev.webp');
-    background-size: cover;
-    background-position: center;
-    color: white;
-  }
-</style>
 
 ## ✩ 👨‍💻 Hi there 👨‍💻 ✩
 

@@ -1,6 +1,6 @@
 ## ✩ 👨‍💻 Hi there 👨‍💻 ✩
 
-I'm a skilled Django backend developer with a strong passion for Data Science, Machine Learning, and Artificial Intelligence. I am eager to expand my expertise, build intelligent and scalable solutions, and pursue a dynamic role as a Software Development Engineer (SDE).
+I'm a skilled Django backend developer with a strong passion for Data Science, Machine Learning, and Artificial Intelligence. I have a keen interest in C++, Data Structures & Algorithms (DSA), and problem-solving, and I am eager to expand my expertise, build intelligent and scalable solutions, and pursue a dynamic role as a Software Development Engineer (SDE).
 
 Skills: Django Backend Development, C++, Data Structures
 Currently Learning: Data Science, Machine Learning, Artificial Intelligence

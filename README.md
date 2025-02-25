@@ -17,9 +17,9 @@ Interests: Software Development Engineer (SDE) Role, C++, Data Structures, Machi
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving complex problems in my free time.
 
-### Connect with me:
+## Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/jeevan-kumar-18854023b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-kumar-18854023b/)
 
 ### Languages and Tools:
 

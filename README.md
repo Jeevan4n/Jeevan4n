@@ -1,5 +1,7 @@
 ## ✩ 👨‍💻 Hi there 👨‍💻 ✩
 
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Jeevan4n&color=blue)](https://github.com/Jeevan4n)
+
 I'm a skilled Django backend developer with a strong passion for Data Science, Machine Learning, and Artificial Intelligence. I have a keen interest in C++, Data Structures & Algorithms (DSA), and problem-solving, and I am eager to expand my expertise, build intelligent and scalable solutions, and pursue a dynamic role as a Software Development Engineer (SDE).
 
 Skills: Django Backend Development, C++, Data Structures

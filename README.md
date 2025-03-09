@@ -8,6 +8,10 @@ Skills: Django Backend Development, C++, Data Structures
 Currently Learning: Data Science, Machine Learning, Artificial Intelligence
 Interests: Software Development Engineer (SDE) Role, C++, Data Structures, Machine Learning, Artificial Intelligence
 
+🎓 Education
+B.Tech in Electronics and Communication Engineering (ECE)
+Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur
+
 ### About Me
 
 - 🔭 I’m currently working on exciting Django projects.
